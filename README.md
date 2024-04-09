@@ -9,3 +9,6 @@ One of the most important responsibilities a system administrator or SOC analyst
 - What are the different metrics of health and performance of a system ?
 - How can you check the uptime of a machine ?
 - How can you assess the network traffic ?
+
+
+The second task is meant to serve as practice and will have you, in a different file, write a report with as many relevant information (what would make sense in a report) as you can muster on a system you manage. It most preferably would be a remote machine, but it can also be your local machine as this is just practice.
